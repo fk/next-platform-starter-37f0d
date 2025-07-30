@@ -1,8 +1,8 @@
 export const metadata = {
-  title: 'login-03'
+  title: 'login'
 };
 
-export default function Login03Page() {
+export default function LoginPage() {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center bg-blue-900 py-12 px-4 sm:px-6 lg:px-8">
       <div className="w-full max-w-md space-y-8">
