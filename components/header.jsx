@@ -9,7 +9,9 @@ const navItems = [
     { linkText: 'Image CDN', href: '/image-cdn' },
     { linkText: 'Edge Function', href: '/edge' },
     { linkText: 'Blobs', href: '/blobs' },
-    { linkText: 'Classics', href: '/classics' }
+    { linkText: 'Classics', href: '/classics' },
+    { linkText: 'Blocks', href: '/blocks/login-03' },
+    { linkText: 'shadcn Installation', href: 'https://ui.shadcn.com/docs/installation' }
 ];
 
 export function Header() {
